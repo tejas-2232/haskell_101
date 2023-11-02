@@ -2,12 +2,16 @@
 Learning Haskell one step at at time
 
 ```hs
+1. -- These is single line comment in haskell
+```
 
-1. -- These is comment in haskell
-
+```hs
 2. -{
+This is multiline comment
    -}
-  This is multiline co## Functional control Flow
+```
+
+## Functional control Flow
 
 1. Emphasis is on the "functional" view that the purpose of an expression is to return a value
 2. looping is handled by recursion
